@@ -68,6 +68,12 @@ body {
 	color: white;
 	text-shadow: black 0.1em 0.1em 0.1em;
     }
+.col-md-4 {
+	color: white;
+}
+.panel{
+	color:white;
+}
 #wrap {
 	min-height: 100%;
 	height: auto;
