@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-	background-color:#ffffff;
+	background-color:#606865;
 }
 
 .displaynone {
@@ -11,25 +11,25 @@ body {
 }
 
 .navbar-default {
-        background-color: #14851a;
-        border-color: #000;
+        background-color: #444A4F;
+        border-color: #47544E;
 }
 .navbar-default .navbar-brand {
-        color: #f0ff22;
+        color: #BDA398;
 }
 
 /* logo and site name */
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-        color: #f05239;
+        color: #BDA398;
 }
 .navbar-default .navbar-text {
-        color: #f79433;
+        color: #BDA398;
 }
 .navbar-default .navbar-nav > li > a {
-        color: #f79433;
+        color: #BDA398;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-        color: #f05239;
+        color: #6C5C56;
 	font-weight: bold;
 	text-decoration: underline;
 }
@@ -37,28 +37,28 @@ body {
         border-color: #b9392b;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-  background-color: #14851a;
-  color: #f05239;
+  background-color: #678176;
+  color: #6C5C56;
   font-size: 1.2em;
 }
 
 .navbar-default .navbar-nav > .active > a {
-  background-color: #606482;
-  color: #f79433;
+  background-color: #678176;
+  color: #6C5C56;
   font-size: 1.2em;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-        background-color: #b9392b;
+        background-color: #BDA398;
 }
 .navbar-default .navbar-toggle .icon-bar {
-        background-color: #ffffff;
+        background-color: #678176;
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-        border-color: #ffffff;
+        border-color: #678176;
 }
 .navbar-default .navbar-link {
-        color: #ffffff;
+        color: #6C5C56;
 }
 
 
@@ -155,7 +155,7 @@ body {
 	width: 32px;
 	height: 32px;
 	border: 0;
-	background: url('https://coinb.in/images/btc32x.png');
+	background: url('images/btc32x.png');
 	cursor: pointer;
 }
 
@@ -163,7 +163,7 @@ body {
 	width: 32px;
 	height: 32px;
 	border: 0;
-	background: url('https://coinb.in/images/btc32x.png');
+	background: url('images/btc32x.png');
 	cursor: pointer;
 }
 
