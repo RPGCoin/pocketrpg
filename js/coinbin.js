@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
   /* open wallet code */
-  var explorer_addr = "https://explorer.rpgcoin.network/address/"
+  var explorer_addr = "https://rpgcoin.network/address/"
   var wallet_timer = false;
 
   $("#openBtn").click(function(){
