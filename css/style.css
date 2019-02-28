@@ -61,7 +61,13 @@ body {
         color: #6C5C56;
 }
 
-
+.jumbotron {
+	margin-bottom: 0px;
+	background-image: url(images/rpgcoin.png);
+	background-repeat: no-repeat;
+	color: white;
+	text-shadow: black 0.1em 0.1em 0.1em;
+    }
 #wrap {
 	min-height: 100%;
 	height: auto;
