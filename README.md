@@ -1,6 +1,8 @@
 # PocketRPG
 
-This is the source code from the RPG Coin Web Wallet service. Licensed under MIT license.
+This is the source code from the RPG Coin Web Wallet service. You can either download this repository and run the code locally by opening index.html in web browser, or access our secure service at https://wallet.rpgcoin.network/
+
+Licensed under MIT license.
 
 Thanks to Coinbin (https://coinb.in) for the original design.
 
